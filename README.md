@@ -1,2 +1,2 @@
 # EDA-using-Data-Visualization
-Impact of fitness wearable on consumer behavior
+# Impact of fitness wearable on consumer behavior
